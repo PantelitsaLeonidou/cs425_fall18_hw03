@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+<easy>
+<question>
+	<q>What is the most appropriate data structure for modelling the Internet;</q>
+	<answer right="F">Binary tree</answer>
+	<answer right="F">List</answer>
+	<answer right="T">Graph</answer>
+	<answer right="F">k-d Tree</answer>
+</question>
+<question>
+	<q>What is an autonomous system?</q>
+	<answer right="F">A set of IP addresses with a common prefix</answer>
+	<answer right="F">All the ISPs of a country</answer>
+	<answer right="F">A Web hosting service</answer>
+	<answer right="T">An area of the Internet under a common operator</answer>
+</question>
+<question>
+	<q>What is RIPE NCC?</q>
+	<answer right="F">The operator of the top European DNS server</answer>
+	<answer right="F">Assigns IP addresses to US organisations</answer>
+	<answer right="F">An Autonomous System in Australia and New Zealand</answer>
+	<answer right="T">The Internet Registry for Europe, Middle East and parts of Central Asia</answer>
+</question>
+<question>
+	<q>What does HTML stand for</q>
+	<answer right="T">HyperText Markup Language</answer>
+	<answer right="F">HyperText Markup Label</answer>
+	<answer right="F">High Transformation Markup Language</answer>
+	<answer right="F">HyperText Mail Language</answer>
+</question>
+<question>
+	<q>What does CSS stand for? </q>
+	<answer right="T">Cascading Style Sheets</answer>
+	<answer right="F">Coding to Style Sheets</answer>
+	<answer right="F">Cascading Sheets	&apos; Style</answer>
+	<answer right="F">Cool Style Sheets</answer>
+</question>
+<question>
+	<q>What does PHP stands for nowadays?</q>
+	<answer right="T">PHP Hypertext Processor</answer>
+	<answer right="F">Personal Home Page</answer>
+	<answer right="F">Python Hypertext Procesor</answer>
+	<answer right="F">PHP Highlevel Processor</answer>
+</question>
+<question>
+	<q>What is AJAX used for?</q>
+	<answer right="F">metalanguage for organizing data</answer>
+	<answer right="F">stylistic info for web pages</answer>
+	<answer right="T">accessing data for web applications</answer>
+	<answer right="F">writing web pages</answer>
+</question>
+<question>
+	<q>HTTP status code 1xx is:</q>
+	<answer right="T">informational</answer>
+	<answer right="F">successful</answer>
+	<answer right="F">redirection</answer>
+	<answer right="F">Server Error</answer>
+</question>
+<question>
+	<q>HTTP status code 2xx is:</q>
+	<answer right="F">informational</answer>
+	<answer right="T">successful</answer>
+	<answer right="F">redirection</answer>
+	<answer right="F">Server Error</answer>
+</question>
+<question>
+	<q>HTTP status code 3xx is:</q>
+	<answer right="F">Client Error</answer>
+	<answer right="F">successful</answer>
+	<answer right="T">redirection</answer>
+	<answer right="F">Server Error</answer>
+</question>
+<question>
+	<q>HTTP status code 4xx is:</q>
+	<answer right="T">Client Error</answer>
+	<answer right="F">successful</answer>
+	<answer right="F">redirection</answer>
+	<answer right="F">Server Error</answer>
+</question>
+<question>
+	<q>HTTP status code 5xx is:</q>
+	<answer right="F">Client Error</answer>
+	<answer right="F">successful</answer>
+	<answer right="F">redirection</answer>
+	<answer right="T">Server Error</answer>
+</question>
+<question>
+	<q>What does HTTP status code 200 is:</q>
+	<answer right="T">OK</answer>
+	<answer right="F">Forbidden</answer>
+	<answer right="F">Bad Request</answer>
+	<answer right="F">Unauthorized</answer>
+</question>
+<question>
+	<q>What does HTTP status code 400 is:</q>
+	<answer right="F">OK</answer>
+	<answer right="F">Forbidden</answer>
+	<answer right="T">Bad Request</answer>
+	<answer right="F">Unauthorized</answer>
+</question>
+<question>
+	<q>What does HTTP status code 401 is:</q>
+	<answer right="F">OK</answer>
+	<answer right="F">Forbidden</answer>
+	<answer right="F">Bad Request</answer>
+	<answer right="T">Unauthorized </answer>
+</question>
+<question>
+	<q>What does HTTP status code 404 is:</q>
+	<answer right="F">OK</answer>
+	<answer right="F">Forbidden</answer>
+	<answer right="F">Bad Request</answer>
+	<answer right="T">Page Not Found</answer>
+</question>
+<question>
+	<q>Who is making the Web standards?</q>
+	<answer right="F">Microsoft</answer>
+	<answer right="T">The World Wide Web Consortium</answer>
+	<answer right="F">Google</answer>
+	<answer right="F">Mozilla</answer>
+</question>
+<question>
+	<q>Choose the correct HTML element to define emphasized text</q>
+	<answer right="F">&lt;i&gt;</answer>
+	<answer right="T">&lt;em&gt;</answer>
+	<answer right="F">&lt;italic&gt;</answer>
+	<answer right="F">&lt;b&gt;</answer>
+</question>
+<question>
+	<q>What is the correct HTML for creating a hyperlink?</q>
+	<answer right="T">&lt;a href=&quot;http://www.w3schools.com&quot;&gt;W3Schools&lt;/a&gt;</answer>
+	<answer right="F">&lt;a url=&quot;http://www.w3schools.com&quot;&gt;W3Schools.com&lt;/a&gt;</answer>
+	<answer right="F">&lt;a&gt;http://www.w3schools.com>&lt;/a&gt;</answer>
+	<answer right="F">&lt;a name=&quot;http://www.w3schools.com&quot;&gt;W3Schools.com&lt;/a&gt;</answer>
+</question>
+<question>
+	<q>Which character is used to indicate an end tag in html?</q>
+	<answer right="F">&lt;</answer>
+	<answer right="F">^</answer>
+	<answer right="T">/</answer>
+	<answer right="F">*</answer>
+</question>
+<question>
+	<q>All variables in PHP start with which symbol?</q>
+	<answer right="T">$</answer>
+	<answer right="F">!</answer>
+	<answer right="F">&amp;</answer>
+	<answer right="F">*</answer>
+</question>
+<question>
+	<q>What is the correct way to create a function in PHP?</q>
+	<answer right="T">function myFunction()</answer>
+	<answer right="F">functioncreate myFunction()</answer>
+	<answer right="F"> create myFunction()</answer>
+	<answer right="F">new_function myFunction()</answer>
+</question>
+<question>
+	<q>What is a correct way to add a comment in PHP?</q>
+	<answer right="T"> /*...*/</answer>
+	<answer right="F">&lt;!--...--&gt;</answer>
+	<answer right="F">&lt;comment...&gt;&lt;/comment&gt;</answer>
+	<answer right="F">*\...\*</answer>
+</question>
+<question>
+	<q>Which operator is used to check if two values are equal and of same data type?</q>
+	<answer right="T"> ===</answer>
+	<answer right="F">!=</answer>
+	<answer right="F"> =</answer>
+	<answer right="F">==</answer>
+</question>
+<question>
+	<q>What is the correct HTML for referring to an external style sheet?</q>
+	<answer right="T"> &lt;link rel="stylesheet" type="text/css" href="mystyle.css"&gt;</answer>
+	<answer right="F">&lt;stylesheet&gt;mystyle.css&lt;/stylesheet&gt;</answer>
+	<answer right="F">&lt;style src="mystyle.css"&gt;</answer>
+	<answer right="F">&lt;a href="/mystyle.css"&gt;&lt;/a&gt;</answer>
+</question>
+</easy>
+<medium>
+<question>
+	<q> What URL acronym means? </q>
+	<answer right="F"> United Root Landscape </answer>
+	<answer right="T"> Uniform Resource Locator </answer>
+	<answer right="F"> Uniform Rapid Locator </answer>
+	<answer right="F"> Uniform Resource Landscape </answer>
+</question>
+
+<question>
+	<q> Server-side pages are programs written using one of many ______. </q>
+	<answer right="T"> web programming languages/frameworks </answer>
+	<answer right="F"> application programming languages </answer>
+	<answer right="F"> web programming frameworks only </answer>
+	<answer right="F"> web programming languages only </answer>
+</question>
+
+<question>
+	<q> PHP is a language using in _____ programming. </q>
+	<answer right="F"> object-oriented </answer>
+	<answer right="F"> web-applications </answer>
+	<answer right="T"> server-side </answer>
+	<answer right="F"> procedure-oriented language </answer>
+</question>
+
+<question>
+	<q> PHP can be embedded in ______ code. </q>
+	<answer right="T"> HTML </answer>
+	<answer right="F"> JAVA </answer>
+	<answer right="F"> C++ </answer>
+	<answer right="F"> Prolog </answer>
+</question>
+
+<question>
+	<q> PHP is used to make ____ pages. </q>
+	<answer right="F"> static </answer>
+	<answer right="T"> dynamic </answer>
+	<answer right="F"> connection-oriented </answer>
+	<answer right="F"> none of the above</answer>
+</question>
+
+
+<question>
+	<q> Which language are not servder-side? </q>
+	<answer right="F"> Ruby </answer>
+	<answer right="T"> HTML </answer>
+	<answer right="F"> ASP.NET </answer>
+	<answer right="F"> JSP </answer>
+</question>
+
+
+<question>
+	<q> The Lifecycle of a PHP web request contains: </q>
+	<answer right="T"> a static and a dynamic content  </answer>
+	<answer right="F"> a static content only</answer>
+	<answer right="F"> a dynamic content only </answer>
+	<answer right="F"> none of the above </answer>
+</question>
+
+
+<question>
+	<q> How a PHP code begins and ends? </q>
+	<answer right="F"> &lt;php&gt; and &lt;/php&gt;  </answer>
+	<answer right="F"> &lt;?php and php?&gt;   </answer>
+	<answer right="F"> &lt;?php&gt; and &lt;php?&gt; </answer>
+	<answer right="T"> &lt;?php and ?> </answer>
+</question>
+
+<question>
+	<q> Code that is not embeded to <?php  ?> is ouput of ____. </q>
+	<answer right="T"> pure HTML  </answer>
+	<answer right="F"> pure CSS   </answer>
+	<answer right="F"> pure C </answer>
+	<answer right="F"> pure Javascript </answer>
+</question>
+
+<question>
+	<q> What command can replace print in PHP? </q>
+	<answer right="T">  echo</answer>
+	<answer right="F"> printf   </answer>
+	<answer right="F"> System.out.println </answer>
+	<answer right="F"> println </answer>
+</question>
+
+<question>
+	<q>Failures in your data centre happen once a week. It takes 7 minutes to recover.What is your uptime?</q>
+	<answer right="T">three nines</answer>
+	<answer right="F">0,99930</answer>
+	<answer right="F">0,00069</answer>
+	<answer right="F">10080 minutes</answer>
+</question>
+<question>
+	<q>Which statement is correct?</q>
+	<answer right="F">Yield is equivalent to uptime - both metrics represent the same thing</answer>
+	<answer right="T">Internet traffic renders yield more useful metric than uptime</answer>
+	<answer right="F">Internet traffic renders uptime a better metric than yield</answer>
+	<answer right="F">Harvest is proportional to yield</answer>
+</question>
+<question>
+	<q>How can you open a link in a new tab/browser window?</q>
+	<answer right="T">&lt;a href="url" target="_blank"&gt;</answer>
+	<answer right="F">&lt;a href="url" new&gt;</answer>
+	<answer right="F">&lt;a href="url" target="new"&gt;</answer>
+	<answer right="F">&lt;a href="url" target="_new"&gt;</answer>
+	<answer right="F">&lt;a href="url" target="_new"&gt;</answer>
+</question>
+<question>
+	<q>How do you get information from a form that is submitted using the "get" method?</q>
+	<answer right="T">$_GET[];</answer>
+	<answer right="F"> Request.Form;</answer>
+	<answer right="F"> Request.QueryString;</answer>
+	<answer right="F">$GET[];</answer>
+</question>
+<question>
+	<q>What is the correct way to include the file "time.inc" ?</q>
+	<answer right="T">&lt;?php include "time.inc"; ?&gt;</answer>
+	<answer right="F">&lt;!-- include file="time.inc" --&gt;</answer>
+	<answer right="F">&lt;?php include file="time.inc"; ?&gt;</answer>
+	<answer right="F">&lt;?php include:"time.inc"; ?&gt;</answer>
+</question>
+<question>
+	<q>Why separate content(html) from presentation(css)?</q>
+	<answer right="T">Efficiency of code</answer>
+	<answer right="F">There is no way to have css embeded in html</answer>
+	<answer right="F">It is not possible to use all css attributes in html.</answer>
+	<answer right="F">The presentation is more beautiful</answer>
+</question>
+<question>
+	<q>What is the best way to link css to html?</q>
+	<answer right="F">Inline styles</answer>
+	<answer right="T">External style sheets</answer>
+	<answer right="F">Embedded styles</answer>
+	<answer right="F">None of the above</answer>
+</question>
+<question>
+	<q>In Uniform Resource Locator (URL), path is pathname of file where information is:</q>
+	<answer right="F">Stored</answer>
+	<answer right="F">to be transferred</answer>
+	<answer right="F">Transferred</answer>
+	<answer right="T">Located</answer>
+</question>
+<question>
+	<q>Proxy server reduces load on the:</q>
+	<answer right="F">Proxy Server</answer>
+	<answer right="F">Node Server</answer>
+	<answer right="F">Domain Server</answer>
+	<answer right="T">Original Server</answer>
+</question>
+<question>
+	<q>World Wide Web (WWW), was originally designed as a:</q>
+	<answer right="T">Stateless Entity</answer>
+	<answer right="F">Stateless Document</answer>
+	<answer right="F">Stateless Program</answer>
+	<answer right="F">Stateless IP</answer>
+</question>
+<question>
+	<q>Which of the following defines a measurement as a percentage relative to another value, typically an enclosing element?</q>
+	<answer right="T">%</answer>
+	<answer right="F">cm</answer>
+	<answer right="F">em</answer>
+	<answer right="F">ex</answer>
+</question>
+<question>
+	<q>Which is the correct CSS syntax?	=</q>
+	<answer right="F">{body:color=black;}</answer>
+	<answer right="F">body:color=black;</answer>
+	<answer right="T"> body {color: black;}</answer>
+	<answer right="F"> {body;color:black;}</answer>
+</question>
+<question>
+	<q>How do you add a background color for all &lt;h1&gt; elements?</q>	
+	<answer right="F">all.h1 {background-color:#FFFFFF;}</answer>
+	<answer right="F">.h1 {background-color:#FFFFFF;}</answer>
+	<answer right="T">h1 {background-color:#FFFFFF;}</answer>
+	<answer right="F">h1.all {background-color:#FFFFFF;}</answer>
+</question>
+<question>
+	<q>Which CSS property controls the text size?	</q>
+	<answer right="F">font-style</answer>
+	<answer right="T">font-size</answer>
+	<answer right="F">text-size</answer>
+	<answer right="F">text-style</answer>
+</question>
+<question>
+	<q>HTTP is ________ protocol.	</q>
+	<answer right="F">transport layer</answer>
+	<answer right="T">application layer</answer>
+	<answer right="F">network layer</answer>
+	<answer right="F">none of the mentioned</answer>
+</question>
+<question>
+	<q>The size of IP address in IPv6 is:	</q>
+	<answer right="F">4bytes</answer>
+	<answer right="T">128bits</answer>
+	<answer right="F">8bytes</answer>
+	<answer right="F">6^32bits</answer>
+</question>
+</medium>
+<hard>
+<question>
+	<q>Failures in you data centre happen once a week. It takes 7 minutes to recover. How can you realistically increase your uptime by an extra 9?</q>
+	<answer right="F">Increase MTTF from 7 days to 70 days</answer>
+	<answer right="T">Decrease MTTR from 7 minutes to 40 seconds</answer>
+	<answer right="F">Double the number of computing nodes</answer>
+	<answer right="F">Double your outgoing network bandwidth</answer>
+</question>
+<question>
+	<q>A web database is partitioned in 3 servers and one fails.Which statement is correct?</q>
+	<answer right="F">There is no effect in the operation of the service;replication takes care of this.</answer>
+	<answer right="T">Yield remains the same</answer>
+	<answer right="F">Yield drops by 33.3% but harvest is stable</answer>
+	<answer right="F">Both harvest and yield drop</answer>
+</question>
+<question>
+	<q>Which statement is correct?</q>
+	<answer right="T">The higher the ratio of read-queries over updates in a service with replicated DB, the better it is for the service s performance</answer>
+	<answer right="F">The lower the ratio of read-queries over updates in a service with replicated DB, the better it is for the service s performance</answer>
+	<answer right="F">In all internet services, the ratio of reads over writes is equal to one</answer>
+	<answer right="F">The performance of an Internet service is not affected by the ration of reads over writes</answer>
+</question>
+<question>
+	<q>How do you display a border like this:
+		The top border = 10 pixels
+		The bottom border = 5 pixels
+	The left border = 20 pixels
+	The right border = 1pixel</q>
+	<answer right="T"> border-width:10px 1px 5px 20px;</answer>
+	<answer right="F">border-width:10px 5px 20px 1px;</answer>
+	<answer right="F"> border-width:5px 20px 10px 1px;</answer>
+	<answer right="F">border-width:10px 20px 5px 1px;</answer>
+</question>
+<question>
+	<q>Multiple object can be sent over a TCP connection between client and server in:</q>
+	<answer right="T">persistent HTTP</answer>
+	<answer right="F"> both persistent HTTP and nonpersistent HTTP</answer>
+	<answer right="F">nonpersistent HTTP</answer>
+	<answer right="F">none of the mentioned</answer>
+</question>
+<question> 
+	<q>HTTP client requests by establishing a __________ connection to a particular port on the server.</q>
+	<answer right="F">user datagram protocol</answer>
+	<answer right="F">broader gateway protocol</answer>
+	<answer right="T">transmission control protocol</answer>
+	<answer right="F">none of the mentioned</answer>
+</question>
+<question>
+	<q>In HTTP pipelining:</q>
+	<answer right="F">multiple HTTP requests are sent in a queue on a single TCP connection</answer>
+	<answer right="F">multiple HTTP requests can not be sent on a single TCP connection</answer>
+	<answer right="T">multiple HTTP requests are sent on a single TCP connection without waiting for the corresponding responses</answer>
+	<answer right="F">a single HTTP request is sent in a single TCP connection</answer>
+</question>
+<question>
+	<q>FTP server listens for connection on port number</q>
+	<answer right="F">20</answer>
+	<answer right="F">23</answer>
+	<answer right="T">21</answer>
+	<answer right="F">80</answer>
+</question>
+<question>
+	<q>Which of these is not applicable for IP protocol?</q>
+	<answer right="F">Connectionless</answer>
+	<answer right="T"> Offer reliable service</answer>
+	<answer right="F">Offer unreliable service</answer>
+	<answer right="F">none of the mentioned</answer>
+</question>
+<question>
+	<q>The time taken by a packet to travel from client to server and then back to the client is called __________</q>
+	<answer right="F">STT</answer>
+	<answer right="T"> RTT</answer>
+	<answer right="F">PTT</answer>
+	<answer right="F">None of the mentioned</answer>
+</question>
+<question>
+	<q>The HTTP request message is sent in _________ part of three-way handshake.</q>
+	<answer right="F">First</answer>
+	<answer right="F"> Second</answer>
+	<answer right="T">Third</answer>
+	<answer right="F">None of the mentioned</answer>
+</question>
+<question>
+	<q>The HTTP response message leaves out the requested object when ____________ method is used</q>
+	<answer right="F">GET</answer>
+	<answer right="F">POST</answer>
+	<answer right="T">HEAD</answer>
+	<answer right="F">PUT</answer>
+</question>
+<question>
+	<q>Suppose two IPv6 nodes want to interoperate using IPv6 datagrams but are connected to each other by intervening IPv4 routers. The best solution here is:</q>
+	<answer right="F">Use dual-stack approach</answer>
+	<answer right="F"> No solution</answer>
+	<answer right="T">Tunneling</answer>
+	<answer right="F"> Replace the system</answer>
+</question>
+<question>
+	<q>Which of the following is false with respect to UDP</q>
+	<answer right="F">Not connection-oriented</answer>
+	<answer right="F">  Unreliable</answer>
+	<answer right="T">Connection-oriented</answer>
+	<answer right="F"> All of the mentioned</answer>
+</question>
+<question>
+	<q>Beyond IP, TCP provides additional services such as:</q>
+	<answer right="T">Demultiplexing and error checking</answer>
+	<answer right="F">Routing and switching</answer>
+	<answer right="F">Sending and receiving of packets</answer>
+	<answer right="F"> Multiplexing and demultiplexing</answer>
+</question>
+
+<question>
+	<q> What is the default type of PHP variables? </q>
+	<answer right="F"> int </answer>
+	<answer right="F"> char </answer>
+	<answer right="T"> String </answer>
+	<answer right="F"> boolean </answer>
+</question>
+
+<question>
+	<q> What function returns the type of a variable in PHP? </q>
+	<answer right="T"> gettype </answer>
+	<answer right="F"> get_type </answer>
+	<answer right="F"> type_of_variable </answer>
+	<answer right="F"> isType </answer>
+</question>
+
+<question>
+	<q> With what symbol variable names start in PHP? </q>
+	<answer right="F"> %  </answer>
+	<answer right="F"> # </answer>
+	<answer right="T"> $ </answer>
+	<answer right="F"> @ </answer>
+</question>
+
+<question>
+	<q> How I comment in PHP? </q>
+	<answer right="T"> // or /**/ or #  </answer>
+	<answer right="F"> # only </answer>
+	<answer right="F"> // only </answer>
+	<answer right="F"> /* */ and // only </answer>
+</question>
+
+</hard>
+</questions>

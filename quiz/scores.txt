@@ -1,0 +1,13 @@
+Tim	3
+Pioann	14
+Sam	14
+Asda	6
+Xam	8
+Sany	10
+Lila	14
+cat	1
+liam	14
+cd	0
+Ant	0
+kjbk	0
+hello	10
