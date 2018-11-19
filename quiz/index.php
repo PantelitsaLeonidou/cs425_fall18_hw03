@@ -72,7 +72,6 @@ function easyQuest(){
 	}
 	$_SESSION['easycounter']++;
 	$_SESSION['easy'][$_SESSION['easycounter']]=$rand;
-	echo $_SESSION['easy'][$_SESSION['easycounter']];
 	$xml=simplexml_load_file("Questions.xml");
 	$GLOBALS['complexity']=0;
 	$GLOBALS ['question']=$xml->easy->question[$rand]->q;
@@ -559,6 +558,7 @@ fclose($handle);
 ?>
 </div>
 </div>
-</body>
 <?php include 'footer.php';?>
+</body>
+
 </html>

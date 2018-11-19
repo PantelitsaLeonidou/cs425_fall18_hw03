@@ -45,6 +45,7 @@ When you answer all the questions you will get your score and the list of the qu
 </div>
 </div>
 </div>
-</body>
 <?php include 'footer.php';?>
+</body>
+
 </html>

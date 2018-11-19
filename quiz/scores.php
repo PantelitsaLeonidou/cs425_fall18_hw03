@@ -106,7 +106,8 @@ echo $nickname_ar[$i]." ".$score_ar[$i]."<br>";
 </div>
 </div>
 </div>
-</body>
 <?php include 'footer.php';?>
+</body>
+
 
 </html>

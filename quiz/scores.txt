@@ -11,3 +11,6 @@ cd	0
 Ant	0
 kjbk	0
 hello	10
+sisi	4
+mon	2
+hey	11
